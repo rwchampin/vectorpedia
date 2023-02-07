@@ -1,0 +1,11 @@
+{
+  "name": "vectorpedia",
+  "version": "1.0.0",
+  "description": "A comprehensive vector 2D & 3D utility library geared towards creating amazing particle animations a little bit easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Champin",
+  "license": "MIT"
+}

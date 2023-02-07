@@ -1,0 +1,29 @@
+{
+  "name": "vectorpedia",
+  "version": "1.0.0",
+  "description": "A comprehensive vector 2D & 3D utility library geared towards creating amazing particle animations a little bit easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Champin",
+  "license": "MIT",
+  "keywords": [
+    "vector",
+    "vector2",
+    "vector3",
+    "vec",
+    "vec2",
+    "vec3",
+    "canvas",
+    "webgl",
+    "three.js",
+    "particle",
+    "particles",
+    "points",
+    "pointcloud",
+    "buffer",
+    "buffergeometry",
+    "gometry"
+  ]
+}
