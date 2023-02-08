@@ -27,6 +27,6 @@
     "gometry"
   ],
   "publishConfig": {
-    "@rwchampin:vectorpedia": "https: //npm.pkg.github.com"
+    @rwchampin:vectorpedia":"https: //npm.pkg.github.com"
   }
 }

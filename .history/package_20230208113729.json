@@ -26,7 +26,5 @@
     "buffergeometry",
     "gometry"
   ],
-  "publishConfig": {
-    "@rwchampin:vectorpedia": "https: //npm.pkg.github.com"
-  }
+  "publishConfig": {}
 }
